@@ -1,0 +1,8 @@
+image: curlimages/curl:latest
+
+minimize_deploy:
+  stage: deploy
+  tags:
+    - linuxdocker
+  script:
+    - "curl -X POST --fail -F token=${GITLAB_TRIGGER_PIPELINE_TOKEN} -F ref=master -F variables[IHB_JSON_NAME]=${CI_PROJECT_NAME} https://gitlab.soraharu.com/api/v4/projects/34/trigger/pipeline"
