@@ -118,4 +118,4 @@ Wi-Fi 及 API 相关功能还处于开发阶段，预计将于 2024 年上线，
 
 基于 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://choosealicense.com/licenses/cc-by-sa-4.0/) 许可进行开源。
 
-本设计已在 [中国版权保护中心](https://www.ccopyright.com.cn/) 登记注册，商业支持及定制化可联系 [admin@soraharu.com](mailto:admin@soraharu.com)。
+本设计已在 [中国版权保护中心](https://www.ccopyright.com.cn/) 登记注册，商业支持及定制化可联系 [commercial@soraharu.com](mailto:commercial@soraharu.com)。
